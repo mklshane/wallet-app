@@ -1,15 +1,14 @@
-import { Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
+import { Link } from "expo-router";
+import { Image } from "expo-image";
 
 export default function Index() {
   return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
+    <View 
     >
-      <Text>SKSKSKSK</Text>
+      
     </View>
   );
 }
+Text;
+
