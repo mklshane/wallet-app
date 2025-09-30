@@ -6,11 +6,11 @@ export const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: COLORS.background,
-    padding: 20,
+    padding: 60,
     justifyContent: "center",
   },
   illustration: {
-    width: "100%",
+    width: 310,
     height: 310,
     resizeMode: "contain",
   },
