@@ -14,6 +14,8 @@
   "type": "module",
   "dependencies": {
     "@neondatabase/serverless": "^1.0.1",
+    "@upstash/ratelimit": "^2.0.6",
+    "@upstash/redis": "^1.35.4",
     "cors": "^2.8.5",
     "dotenv": "^17.2.2",
     "express": "^5.1.0"
