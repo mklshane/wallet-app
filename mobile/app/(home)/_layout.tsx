@@ -9,5 +9,5 @@ export default function Layout() {
 
   if (!isSignedIn) return <Redirect href={"/sign-in"} />;
 
-  return <Stack screenOptions={{ headerShown: false }} />;
+  return <Stack screenOptions={{ headerShown: true }} />;
 }
