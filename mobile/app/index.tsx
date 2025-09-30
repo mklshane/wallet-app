@@ -4,8 +4,7 @@ import { Image } from "expo-image";
 
 export default function Index() {
   return (
-    <View 
-    >
+    <View>
       
     </View>
   );
