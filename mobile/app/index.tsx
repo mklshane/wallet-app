@@ -4,10 +4,9 @@ import { Image } from "expo-image";
 
 export default function Index() {
   return (
-    <View>
-      
+    <View style={{backgroundColor: "black"}}>
+      <Text>Hi</Text>
     </View>
   );
 }
-Text;
 
